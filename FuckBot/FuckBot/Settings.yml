@@ -1,0 +1,14 @@
+host: play.homesteadmc.net # IP 
+port: 25565 # PORT
+proxy: HTTP # SOCKS, HTTP, BOTH, NONE
+duration: 10000000000000000000000000
+threads: 100
+delay: 1
+nicks: LIST
+listen: false
+ping: true
+join: true
+chat: true
+info: 0
+stay: false
+actions:
