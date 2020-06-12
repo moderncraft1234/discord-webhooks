@@ -1,0 +1,10 @@
+#Thu May 21 20:54:34 CEST 2020
+b_multiplier=3.25
+Contrast=2.7
+g_multiplier=1.5
+MB_strength=0.008
+Motionblur=false
+r_multiplier=1.75
+waterA=2.5
+waterCB=1.6
+waterCR=1.0
