@@ -394,11 +394,9 @@
    * ------------------------------------------------------------------------
    */
 
-  var NAME$1 = 'button';
   var VERSION$1 = '4.3.1';
   var DATA_KEY$1 = 'bs.button';
   var EVENT_KEY$1 = "." + DATA_KEY$1;
-  var DATA_API_KEY$1 = '.data-api';
   var JQUERY_NO_CONFLICT$1 = $.fn[NAME$1];
   var ClassName$1 = {
     ACTIVE: 'active',
