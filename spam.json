@@ -1,0 +1,130 @@
+{
+  "paytowin": {
+    "delay": 1200,
+    "messages": [
+      "this is pay to win",
+      "f"
+    ]
+  },
+  "paytowin1": {
+    "delay": 700,
+    "messages": [
+      "i raiped you mom"
+    ]
+  },
+  ".paytowin3": {
+    "delay": 1500,
+    "messages": [
+      "this is constantium",
+      "you mom gay"
+    ]
+  },
+  "wild": {
+    "delay": 20000,
+    "messages": [
+      "/wild"
+    ]
+  },
+  "cracked": {
+    "delay": 5000,
+    "messages": [
+      "you all have cracked acounts just look at yourself dumbasses"
+    ]
+  },
+  "con": {
+    "delay": 500,
+    "messages": [
+      "you mom gay",
+      "this is constantium"
+    ]
+  },
+  "con1": {
+    "delay": 1200,
+    "messages": [
+      "this is constantium",
+      "you mom gay"
+    ]
+  },
+  "cons": {
+    "delay": 5000,
+    "messages": [
+      "you mom gay",
+      "this is constantium"
+    ]
+  },
+  "now": {
+    "delay": 5000,
+    "messages": [
+      "this is my world you all faggots"
+    ]
+  },
+  "spam": {
+    "delay": 5000,
+    "messages": [
+      "this is my world you faggots"
+    ]
+  },
+  "spam1": {
+    "delay": 5000,
+    "messages": [
+      "this is my world"
+    ]
+  },
+  "spam2": {
+    "delay": 5000,
+    "messages": [
+      "im the king of constantium couse im anarchy"
+    ]
+  },
+  "spam3": {
+    "delay": 5000,
+    "messages": [
+      "you mom gay",
+      "you mad motherfucker"
+    ]
+  },
+  "spam4": {
+    "delay": 5000,
+    "messages": [
+      "you mom gay",
+      "you mad"
+    ]
+  },
+  "grief": {
+    "delay": 5000,
+    "messages": [
+      "im griefing the hole f*cking server you d*gheads"
+    ]
+  },
+  "cons1": {
+    "delay": 5000,
+    "messages": [
+      "\u003ei like it here niggers"
+    ]
+  },
+  "king": {
+    "delay": 5000,
+    "messages": [
+      "im the king of constantium",
+      "im the only king here"
+    ]
+  },
+  "baritone": {
+    "delay": 5000,
+    "messages": [
+      "baritone is the true king of constantium and 2b2t"
+    ]
+  },
+  "spawn": {
+    "delay": 5000,
+    "messages": [
+      "i escaped spawn"
+    ]
+  },
+  "somespam": {
+    "delay": 5000,
+    "messages": [
+      "hope you like some spam"
+    ]
+  }
+}
